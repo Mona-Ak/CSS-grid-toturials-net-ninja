@@ -1,2 +1,2 @@
-# CSS-toturials-net-ninja
+# CSS-grid-toturials-net-ninja
 learning CSS from net ninja
